@@ -1,1 +1,1 @@
-PowerBI project for analysis and finding various trends in the annual sales data of Walmart USA. 
+PowerBI project for analysing and finding various trends in the annual sales data of Walmart USA. Using this clear insights we can make actionable decisions and contribute to the growth of the company.
